@@ -14,3 +14,5 @@ What command do you use to run a bash script?
 bash
 How would you run the bash script "helloworld.bash"?
 bash helloworld.bash
+How do you change directory to your home directory?
+cd ~
