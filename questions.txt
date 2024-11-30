@@ -1,0 +1,16 @@
+What command do you use to print all files in the current directory?
+ls
+What command do you use to print the directory you are in currently?
+pwd
+What command do you use to change directory?
+cd
+What command do you use to print all lines that contain the argument? 
+grep 
+How would you print all lines that contain the word "Hello" in a textfile called "helloworld.txt"?
+grep Hello helloworld.txt
+What do you put in the beginning of a bash file? 
+#!/bin/bash
+What command do you use to run a bash script?
+bash
+How would you run the bash script "helloworld.bash"?
+bash helloworld.bash
